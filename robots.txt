@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://loef.github.io/sitemap.xml 

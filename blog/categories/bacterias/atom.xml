@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Bacterias | Los Organismos En Funcionamiento]]></title>
+  <link href="http://loef.github.io/blog/categories/bacterias/atom.xml" rel="self"/>
+  <link href="http://loef.github.io/"/>
+  <updated>2015-09-04T11:09:47-03:00</updated>
+  <id>http://loef.github.io/</id>
+  <author>
+    <name><![CDATA[L. A. Saravia]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[El Concepto De Especies]]></title>
+    <link href="http://loef.github.io/blog/2015/09/01/el-concepto-de-especies/"/>
+    <updated>2015-09-01T16:16:12-03:00</updated>
+    <id>http://loef.github.io/blog/2015/09/01/el-concepto-de-especies</id>
+    <content type="html"><![CDATA[<p>La &ldquo;especie&rdquo; es algo que los biólogos utilizamos para estudiar los organismos vivos.  Es como tener frascos en una alacena y ponerles etiquetas a cada uno. En general uno conoce el nombre comun de una especie, digamos: yuagareté, el nombre científico es <em>Panthera onca</em>, que se llama nomenclatura binomial: la primer parte es el género y la segunda parte es la especie. Estas son categorias taxonómicas.</p>
+
+<p>Pero como hacemos para delimitar que es una especie en un ambito natural, vamos a un campo y juntamos bichos (bichos nombre comun para los artrópodos terrestres), cómo sabemos a que especie pertenecen?</p>
+
+<p>El concepto de especie utilizado generalmente es el denominado <strong>especie biológica</strong> de <a href="http://www.scielo.org.ar/scielo.php?script=sci_arttext&amp;pid=S0073-34072005000200010&amp;lng=es&amp;nrm=iso">Ernest Mayr</a> que la define asi:</p>
+
+<blockquote><p>Especie es un grupo (o población) natural de individuos que pueden cruzarse entre sí, pero que están aislados reproductivamente de otros grupos afines</p></blockquote>
+
+<p>El problema de este concepto es: que hacemos con los organismos que no se reproducen sexualmente como las bacterias y arqueas, para ello les prongo que lean el siguiente articulo: <a href="http://revistaecosistemas.net/index.php/ecosistemas/article/download/150/147">El concepto de especies en procariotas</a></p>
+]]></content>
+  </entry>
+  
+</feed>

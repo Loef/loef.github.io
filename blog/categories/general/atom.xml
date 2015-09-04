@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: General | Los Organismos En Funcionamiento]]></title>
+  <link href="http://loef.github.io/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://loef.github.io/"/>
+  <updated>2015-09-04T11:09:47-03:00</updated>
+  <id>http://loef.github.io/</id>
+  <author>
+    <name><![CDATA[L. A. Saravia]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[El Blog De La Materia LOEF - UNGS]]></title>
+    <link href="http://loef.github.io/blog/2015/09/01/el-blog-de-la-materia-loef-ungs/"/>
+    <updated>2015-09-01T14:52:51-03:00</updated>
+    <id>http://loef.github.io/blog/2015/09/01/el-blog-de-la-materia-loef-ungs</id>
+    <content type="html"><![CDATA[<p>En este blog vamos a publicar material de interes general que puede ser utilizado para la materia &ldquo;Los Organismos en funcionamiento&rdquo; de la Licenciatura en Ecología de la Universidad Nacional de General Sarmiento.</p>
+]]></content>
+  </entry>
+  
+</feed>
