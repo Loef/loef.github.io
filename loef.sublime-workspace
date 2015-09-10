@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bib",
+				"bib"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/_posts/2015-09-01-el-concepto-de-especies.md",
+			"settings":
+			{
+				"buffer_size": 1473,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"synR",
+				"Set Syntax: R"
+			],
+			[
+				"syp",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"syr",
+				"Set Syntax: R"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"symd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sy",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"synp",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"syn",
+				"Set Syntax: Pandoc"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Add eta-squared abbreviation based n LaTeX definition"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0.0011Density.txt",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0.0011CluSizes.txt",
+		"/home/leonardo/Dropbox/Projects/CriticalGlobalForest/Fit_heavy_tails.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Fungi.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final2014-2.md",
+		"/home/leonardo/Dropbox/Projects/CriticalGlobalForest/R/powerlaw/discpowerexp.R",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Video-esponjas-cnidaria.md",
+		"/media/DATOS/VideosBiologia/The Coral Spawn-pnDJvhgPn8o.en.srt",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0CluSizes.txt",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuUnif64_256R1CluSizes.txt",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0Density.txt",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0-5000.sed",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Procariotas-BacteriasMarinas.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/LaBiodiversidad.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Protistas.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-HongosCO2.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-Protistas-FloracionesNocivas.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-BacteriasEspecie.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Procariotas.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Procariotas1.md",
+		"/home/leonardo/Dropbox/Multifractals/NaturalCommunities/Anand2010_DD.dat",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/SomeResults.md",
+		"/home/leonardo/Dropbox/Multifractals/NaturalCommunities/Neutral_Model_BCI.Rmd",
+		"/home/leonardo/Mendeley/Theoretical population biology/2010 - Anand, Langille - A model-based method for estimating effective dispersal distance in tropical plant populations.bib",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/SEAb_ProbComp_SByS.dat",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/SEAb_SiteBySize.dat",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/ProtistasVideo.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-Bacterias-FitoplanctonMutual.md",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/sim.par",
+		"/home/leonardo/Dropbox/Projects/Invasiones/LF/LocalModel/Data/tablareducida.txt",
+		"/home/leonardo/Dropbox/Projects/Invasiones/LF/LocalModel/R/tablareducida.txt",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Polinizadores-Hacia_el_cambio.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Animales3.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Animales2.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-Plantas-Polinizacion-CambioGlobal.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/PreguntasFinal.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/PreguntasParcialDomiciliario.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/PreguntasParcialDom.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/GruposPlantas.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final2014-1.md",
+		"/home/leonardo/Dropbox/Multifractals/NeutralDispersal/RAE2012_DivPatron_charla_beamer_modif.md",
+		"/home/leonardo/Dropbox/Multifractals/NaturalCommunities/mpnc_figures.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Polinizadores-Hacia el cambio catastrofico.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/PreguntasBacterias1.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Animales.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/AnimalesFuentes3.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-ProtistasFertilizacionMar.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-Bacterias-FitoplanctonGlobal (Copia en conflicto de Fernando Momo 2014-09-15).md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-Bacterias-FitoplanctonGlobal.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Respuestas-Protistas-FertilizacionMar.md",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/SP_simul.Rmd",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/PreguntasCordados.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/manuscript/manuscript.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/manuscript/S3_Table.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/README.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/Siber.Rmd",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SpeciesInteractionsGlacierRetreatSIBER/manuscript/S2S3_Table.md",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/Simul/pomac.lin",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/Simul/pomTest.lin",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/Simul/Exp467T100Density.txt",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/Simul/Exp467T100mfOrd.txt",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/Simul/Exp467T100mfSAD.txt",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/Simul/pomExp.lin",
+		"/home/leonardo/Dropbox/Projects/FoodWebsInSpace/AmodelFordynamicsOfEcologicalNetworksInSpaceTime.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Plantae.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Plantae1.md",
+		"/home/leonardo/Dropbox/cpp/SpatialAnalysis/mfsba/multiSpeciesSBA.mak",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/R/Neutral_simul.Rmd",
+		"/home/leonardo/Dropbox/Multifractals/SpeciesRankSurface/R/Neutral_fun.r",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Animales4.md",
+		"/home/leonardo/.gitconfig",
+		"/home/leonardo/tunnel.conf",
+		"/home/leonardo/Dropbox/Multifractals/mfsba_Paper/README.md",
+		"/home/leonardo/Dropbox/Multifractals/mfsba_Paper/response_to_reviewers.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/data/Pasotti.dat",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/SEAb_ProbComp_SByS.dat",
+		"/home/leonardo/Dropbox/CV/SheffieldStatement.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/LaymansBySite.dat",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Bacterias-Diatomeas.md",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/Siar.Rmd",
+		"/home/leonardo/Dropbox/Projects/PotterFoodWeb/Siber.Rmd",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/PreguntasBacterias.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final2013-2.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final2013.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/TemasParaTrabajoFinal.md",
+		"/home/leonardo/Dropbox/cpp/CaNew/Neutral/t64Density.txt",
+		"/home/leonardo/Dropbox/cpp/CaNew/Neutral/t64DenBio.txt",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/2013/Final1-2013.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/2013/Final1-2013-1.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Parcial1-2013.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final1-2013-10.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final2-2013.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Parcial1a.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Animales5.md",
+		"/home/leonardo/.config/sublime-text-2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/leonardo/Dropbox/cpp/CaNew/AlgaePatch/MainIPS.cpp",
+		"/media/DATOS/Academicos/cpp/CaNew/Neutral/MainIPS.cpp",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Moleculares.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/CiclosBioGeoQuim.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Parcial2.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Parcial1.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/2012/Final2012.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Metagenomica.md",
+		"/home/leonardo/Descargas/it/it.bib",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/2012/Final2013Libres.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Parcial.md",
+		"/home/leonardo/Dropbox/CVAcademicos/cv2013_en.md",
+		"/home/leonardo/Dropbox/Multifractals/PaperSucesion/Imagenes/README.md",
+		"/media/BAK/UploadFigshare/README.md",
+		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/README.md",
+		"/home/leonardo/my.bib",
+		"/home/leonardo/Dropbox/delpopmsg.sh",
+		"/home/leonardo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/leonardo/Dropbox/Projects/MultifractalsInR/makefile",
+		"/home/leonardo/Dropbox/Multifractals/NaturalCommunities/mpnc.mak",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Parcial1Recup.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Final1-2013.md",
+		"/home/leonardo/Dropbox/Multifractals/NaturalCommunities/mpnc.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Animales6.md",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/Procariotas.mak",
+		"/home/leonardo/blog/source/_includes/custom/intro.html",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/TheRingOfLife.es.md",
+		"/home/leonardo/Dropbox/DatosIre/Paper1.md",
+		"/home/leonardo/Dropbox/DatosIre/Meteo_stat.txt.old",
+		"/home/leonardo/Dropbox/DatosIre/chlaR_DegDay.dat",
+		"/home/leonardo/Dropbox/DatosIre/Meteo_stat1.txt",
+		"/home/leonardo/Dropbox/LabBiologia/LOF/clases.sublime-workspace",
+		"/home/leonardo/Dropbox/DatosIre/Paper.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Researchgate",
+			"<https://www.researchgate",
+			"discpowerexp.fit",
+			"discpowerexp.filename",
+			"radiolarians",
+			"radioarians",
+			"TP",
+			"BGE",
+			"BR",
+			"BP",
+			"Que",
+			"que",
+			"Que",
+			"que",
+			"Que",
+			"que",
+			"Que",
+			".",
+			"p1_figure2",
+			"p1_figure",
+			"4",
+			"Fuentes2",
+			" y ",
+			"Fuente",
+			"blástula",
+			"blastula",
+			"Plantae1",
+			"Respuestas",
+			"Fungi",
+			"Bacterias-Diatomeas",
+			"dinoflagelados",
+			"dNr",
+			"MNND",
+			"NR",
+			"dNR",
+			"dNr",
+			"Animales",
+			"##",
+			"*",
+			"Plantae1",
+			"Final1",
+			"Final1-",
+			"Plantae",
+			"Parcial1",
+			"----------",
+			"Ciclo",
+			"CiclosBioGeoQuim",
+			"Protistas",
+			"ProtistasTama",
+			"Protistas",
+			"Pregunta",
+			"puede",
+			"* ",
+			"Animales3",
+			"Animales2",
+			"Plantae1",
+			"Fungi",
+			";",
+			"compMdl",
+			"808",
+			"macromoleculas",
+			"estadío",
+			"regr",
+			"2 ",
+			"0.701",
+			".",
+			"0.301",
+			".",
+			"0.",
+			"if(!exists(\"sp\"))",
+			"sp <- sa",
+			"\\delta",
+			"rosenz",
+			"\\(.*\\)$",
+			"\\((.*[0-9]{0,4})[]*\\)$",
+			"\\((.*[0-9]{0,4})\\)$",
+			"\\((.*[0-9]{4,4})\\)$",
+			"\\((.+[0-9]{4,4})\\)$",
+			"\\(.+[0-9]{4,4}\\)$",
+			"(",
+			" et al. ",
+			")",
+			"(",
+			")",
+			"(",
+			")",
+			"(",
+			"Rosenzweig1995",
+			"[@",
+			"(",
+			"Rosenzweig",
+			" (",
+			"(",
+			"log(\\epsi",
+			"μ",
+			"⁠",
+			")⁠",
+			"1992",
+			"Sommer",
+			"ε",
+			"[@",
+			" @",
+			"prefix"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p_figure",
+			"\\Delta",
+			"\\mu",
+			"",
+			")",
+			")⁠",
+			"\\epsilon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/_posts/2015-09-01-el-concepto-de-especies.md",
+					"settings":
+					{
+						"buffer_size": 1473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"bl",
+				"/home/leonardo/blog/blog.sublime-project"
+			],
+			[
+				"",
+				"/home/leonardo/Dropbox/LabBiologia/LOF/clases.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
