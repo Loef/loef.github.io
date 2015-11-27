@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://loef.github.io/blog/2015/11/27/el-calentamiento-global/</loc>
+    <lastmod>2015-11-27T09:48:56-03:00</lastmod>
+  </url>
+  <url>
     <loc>http://loef.github.io/blog/2015/09/09/protistas-videos/</loc>
     <lastmod>2015-09-09T22:36:47-03:00</lastmod>
   </url>
@@ -47,5 +51,14 @@
   </url>
   <url>
     <loc>http://loef.github.io/blog/categories/eucariotas/</loc>
+  </url>
+  <url>
+    <loc>http://loef.github.io/blog/categories/libros/</loc>
+  </url>
+  <url>
+    <loc>http://loef.github.io/blog/categories/calentamiento-global/</loc>
+  </url>
+  <url>
+    <loc>http://loef.github.io/blog/categories/cambio-climatico/</loc>
   </url>
 </urlset>
