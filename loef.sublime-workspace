@@ -18,6 +18,14 @@
 				"buffer_size": 1473,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "source/_posts/2015-09-09-protistas-videos.md",
+			"settings":
+			{
+				"buffer_size": 4652,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "Packages/Makefile/Make.sublime-build",
@@ -112,6 +120,9 @@
 	},
 	"file_history":
 	[
+		"/home/leonardo/blog/loef/Rakefile",
+		"/home/leonardo/blog/loef/config.ru",
+		"/home/leonardo/blog/loef/config.rb",
 		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0.0011Density.txt",
 		"/home/leonardo/Dropbox/Multifractals/CriticalTransition/Simul/neuFish64_256R0.0011CluSizes.txt",
 		"/home/leonardo/Dropbox/Projects/CriticalGlobalForest/Fit_heavy_tails.md",
@@ -236,10 +247,7 @@
 		"/home/leonardo/Dropbox/LabBiologia/LOF/TheRingOfLife.es.md",
 		"/home/leonardo/Dropbox/DatosIre/Paper1.md",
 		"/home/leonardo/Dropbox/DatosIre/Meteo_stat.txt.old",
-		"/home/leonardo/Dropbox/DatosIre/chlaR_DegDay.dat",
-		"/home/leonardo/Dropbox/DatosIre/Meteo_stat1.txt",
-		"/home/leonardo/Dropbox/LabBiologia/LOF/clases.sublime-workspace",
-		"/home/leonardo/Dropbox/DatosIre/Paper.md"
+		"/home/leonardo/Dropbox/DatosIre/chlaR_DegDay.dat"
 	],
 	"find":
 	{
@@ -384,7 +392,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -399,8 +407,8 @@
 						"selection":
 						[
 							[
-								589,
-								589
+								152,
+								152
 							]
 						],
 						"settings":
@@ -409,6 +417,33 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/_posts/2015-09-09-protistas-videos.md",
+					"settings":
+					{
+						"buffer_size": 4652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 816.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
